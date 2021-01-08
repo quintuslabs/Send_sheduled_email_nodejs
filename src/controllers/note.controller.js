@@ -10,7 +10,7 @@ exports.sendMail = async (req, res) => {
             secure: false,
             auth: {
                 user: 'trinathquintus@gmail.com',
-                pass: 'Trinath75@'
+                pass: '***********'
             }
         });
 
